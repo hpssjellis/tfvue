@@ -3,8 +3,7 @@
 
 
 
-https://hpssjellis.github.io/tfvue/public/index.html
-
+https://hpssjellis.github.io/tfvue/
 
 
 
